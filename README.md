@@ -14,12 +14,12 @@ Follow these steps to run the game on your local machine:
 
 1. Clone this repository to your local machine:
    ```
-   git clone <repository_url>
+   git clone https://github.com/OmarSharieff/Countries-Capitals.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd <project_directory>
+   cd Countries-Capitals
    ```
 
 3. Install dependencies:
